@@ -13,4 +13,4 @@ Relay IoT, LLC
 Longmont, CO 80503
 PH 720-552-6198
 
-![image](linkedin.jpeg)
+![image](/img/linkedin.jpeg)
