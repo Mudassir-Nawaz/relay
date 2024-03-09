@@ -13,4 +13,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Relay is an Engineering Consulting company specializing in Industrial IoT systems that improve operational efficiency, safety, and data-driven decision-making. 
+Relay is an Engineering Consulting company specializing in Industrial IoT systems that improve operational efficiency, safety, and data-driven decision-making.

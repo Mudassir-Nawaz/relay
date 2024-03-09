@@ -2,9 +2,9 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-        <a class="navbar-brand title font-weight-lighter" href="/">
-            <img class="logo_img" src="{{ site.logo | prepend: '/assets/img/' | relative_url | bust_file_cache }}" alt="logo">
-        </a>
+      <a class="navbar-brand title font-weight-lighter" href="/">
+        <img class="logo_img" src="{{ site.logo | prepend: '/assets/img/' | relative_url | bust_file_cache }}" alt="logo">
+      </a>
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
@@ -28,8 +28,7 @@
           {% endfor %}
 
           <!-- About -->
-          <li class="nav-item logo">
-          </li>
+          <li class="nav-item logo"></li>
           <li class="nav-item">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               {{- about_title }}
